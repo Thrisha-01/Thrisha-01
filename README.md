@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Thrisha here
+### Hi there, I'm Thrisha 👋
+______________________________________________________________________________________________________________________________________________________________________________________________
 
-
--👩‍💻 Passionate about Frontend Development
+-👩‍💻 Passionate about Frontend Developer
 
 
 -🚀 Currently diving into React.js and expanding my skills
